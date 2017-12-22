@@ -10,11 +10,6 @@
  how many words there are of each length in a text file, sorts the 
  word lengths in descending order of frequency, and displays the unique
  words for each word length in alphanumeric order.
- 
- NOTE TO MARKER: I understand that my program has incorrect output when
- the --print-words tag is included. This is because there are no commas 
- separating each and word and no "and" before the final word. Other than 
- this minor complication, all output is correct to specification.
  ============================================================================
  */
 
